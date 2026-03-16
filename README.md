@@ -1,9 +1,1 @@
-# orm-py
-Micro ORM - object-relational mapping with in-memory SQL-like queries
-
-Zero-dependency Python CLI tool.
-
-## Usage
-```bash
-python3 orm.py
-```
+# orm-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 orm.py\n```\n
